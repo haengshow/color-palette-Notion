@@ -1,0 +1,21 @@
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+  }
+  
+  #hexInput {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  button {
+    padding: 10px 20px;
+    font-size: 16px;
+    cursor: pointer;
+  }
+  
+  #svgContainer {
+    margin-top: 20px;
+  }
+  
